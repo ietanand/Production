@@ -1,2 +1,2 @@
-# New file1 for feature-one branch
+# New file1 for feature-one branch changed again in HotFix branch
 Added 2nd line in feature-one branch
