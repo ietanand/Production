@@ -1,1 +1,2 @@
 # New file1 for feature-one branch
+Added 2nd line in feature-one branch
